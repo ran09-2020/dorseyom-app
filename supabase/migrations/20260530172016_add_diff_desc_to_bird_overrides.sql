@@ -1,0 +1,1 @@
+ALTER TABLE public.bird_overrides ADD COLUMN IF NOT EXISTS diff_desc text;

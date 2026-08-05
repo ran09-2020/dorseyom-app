@@ -1,0 +1,1 @@
+DELETE FROM bird_overrides WHERE bird_id = 'hobby';

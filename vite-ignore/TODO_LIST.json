@@ -1,0 +1,31 @@
+{
+  "summary": "שיפור עמוד סינון לפי תגיות",
+  "todos": [
+    {
+      "id": 1,
+      "description": "מיפוי מאפייני דורסים וזיהוי תגיות שלא עובדות",
+      "files": [],
+      "status": "complete"
+    },
+    {
+      "id": 2,
+      "description": "מיגרציה לתיקון והוספת תגיות חדשות",
+      "files": [],
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "description": "שיפור ממשק - ספירות ואייקונים",
+      "files": [],
+      "status": "complete"
+    },
+    {
+      "id": 4,
+      "description": "בדיקה ותיקון שגיאות",
+      "files": [],
+      "status": "complete"
+    }
+  ],
+  "createdAt": "2026-06-30T15:49:41.842Z",
+  "updatedAt": "2026-06-30T15:52:47.434Z"
+}
