@@ -12,7 +12,6 @@ export function Navbar() {
         <div data-ev-id="ev_c3ac5ae20e" className="flex items-center justify-between h-auto py-1 sm:py-2">
           {/* לוגו */}
           <Link to="/" className="flex items-center gap-1 sm:gap-2 hover:opacity-90 transition-opacity flex-shrink-0">
-            <img data-ev-id="ev_90f32cd81e" src="/favicon.png" alt="דאה" className="w-6 h-6 sm:w-9 sm:h-9 rounded-full" />
             <div data-ev-id="ev_2df0adff4a" className="flex flex-col leading-none">
               <span data-ev-id="ev_3f76ea91fa" className="font-bold text-base sm:text-xl leading-tight">דאה</span>
               
