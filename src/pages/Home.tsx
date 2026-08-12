@@ -103,7 +103,7 @@ export default function Home() {
         {/* מבוא */}
         <div data-ev-id="ev_dd6afadebd" className="text-center mb-10">
           <div data-ev-id="ev_53e8d063b4" className="flex justify-center mb-4">
-            <img data-ev-id="ev_d3c29312a0" src="/favicon.png" alt="דאה" className="w-20 h-20 rounded-full shadow-lg" />
+            <img data-ev-id="ev_d3c29312a0" src={`${import.meta.env.BASE_URL}app-logo.png`} alt="דאה" className="w-32 h-32 object-cover rounded-full shadow-lg border-2 border-forest/20" />
           </div>
           <h1 data-ev-id="ev_7cb8f796fe" className="text-3xl font-bold text-forest mb-3">ברוכים הבאים לדאה</h1>
           <p data-ev-id="ev_cc09a5565a" className="text-lg text-gray-600 max-w-xl mx-auto leading-relaxed">
